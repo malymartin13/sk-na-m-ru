@@ -65,7 +65,7 @@ const ContactForm = () => {
                   <div>
                     <p className="font-medium">Email</p>
                     <a
-                      href="mailto:info@vestavneskrine.cz"
+                      href="mailto:malymartin11@seznam.cz"
                       className="text-muted-foreground hover:text-secondary transition-colors"
                     >
                       info@vestavneskrine.cz
@@ -80,7 +80,7 @@ const ContactForm = () => {
                   <div>
                     <p className="font-medium">Oblast působení</p>
                     <p className="text-muted-foreground">
-                      Praha a okolí
+                      Svitavy a okolí
                     </p>
                   </div>
                 </div>
@@ -130,7 +130,7 @@ const ContactForm = () => {
                 name="phone"
                 type="tel"
                 required
-                placeholder="+420 123 456 789"
+                placeholder="+420 776 198 253"
                 className="bg-background"
               />
             </div>
